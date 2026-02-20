@@ -4,7 +4,6 @@
 * 🇹🇷 From Turkey
 * 💻 Passionate about building robust mobile solutions with a primary focus on **Android development** and **Kotlin**.
 
-![Profile views](https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square)
 
 <table border="0">
   <tr>
@@ -18,3 +17,5 @@
 </table>
 
 ![Snake animation](https://raw.githubusercontent.com/AhmetSudeys/AhmetSudeys/output/github-snake.svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square)
