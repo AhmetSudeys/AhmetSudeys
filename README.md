@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello World 😊 👋
 
-<!--
-**AhmetSudeys/AhmetSudeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 My name is Ahmet Sudeys Soylu. I'm a Computer Engineering student.
+* 🇹🇷 From Turkey
+* 💻 I'm a Computer Engineering student dedicated to building robust mobile solutions with a primary focus on **Android development** and **Kotlin**.
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetSudeys&layout=compact&theme=vision-friendly-dark)
+
+![Ahmet's github stats](https://github-readme-stats.vercel.app/api?username=AhmetSudeys&show_icons=true&theme=radical)
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/AhmetSudeys/AhmetSudeys/blob/output/github-snake.svg)
