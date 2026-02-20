@@ -18,9 +18,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/AhmetSudeys/AhmetSudeys/output/github-snake.svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square)
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square" alt="Profile views" />
 </p>
