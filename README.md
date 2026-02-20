@@ -20,8 +20,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square)
 
----
 
-### 📩 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetsudeys)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asudeys2004@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square" alt="Profile views" />
+</p>
