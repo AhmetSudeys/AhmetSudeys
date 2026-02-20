@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/AhmetSudeys/AhmetSudeys/output/github-snake.svg)
+![Yılan Animasyonu](https://raw.githubusercontent.com/AhmetSudeys/AhmetSudeys/output/github-snake.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square" alt="Profile views" />
