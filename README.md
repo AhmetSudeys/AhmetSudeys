@@ -10,5 +10,5 @@
 
 ![Ahmet's github stats](https://github-readme-stats.vercel.app/api?username=AhmetSudeys&show_icons=true&theme=radical)
 
-### 🐍 Contribution Snake
+
 ![Snake animation](https://github.com/AhmetSudeys/AhmetSudeys/blob/output/github-snake.svg)
