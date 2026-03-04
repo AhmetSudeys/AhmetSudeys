@@ -2,12 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    # Her 24 saatte bir (Gece 00:00'da) çalışır
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  # Her yeni commit attığında da çalışması için alt satırı ekledim:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Buradaki izinler kısmını mutlaka ekle
+    permissions:
+      contents: write
+    
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
