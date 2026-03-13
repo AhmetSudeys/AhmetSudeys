@@ -1,4 +1,4 @@
-# Hello World 😊👋
+# Hello World 👋😊
 
 * 🌱 My name is Ahmet Sudeys Soylu. I'm a Computer Engineering student.
 * 🇹🇷 From Turkey.
