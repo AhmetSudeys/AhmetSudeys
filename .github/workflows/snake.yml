@@ -26,7 +26,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # BURASI ÖNEMLİ: Varsayılan token yerine senin oluşturduğun SECURE_TOKEN'ı tanımladık
+          GITHUB_TOKEN: ${{ secrets.SECURE_TOKEN }}
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -34,4 +35,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # İtme işlemi için de aynı yetkili token'ı kullanıyoruz
+          GITHUB_TOKEN: ${{ secrets.SECURE_TOKEN }}
