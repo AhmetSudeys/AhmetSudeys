@@ -5,7 +5,6 @@ on:
     # Her 24 saatte bir (Gece 00:00'da) çalışır
     - cron: "0 0 * * *"
   workflow_dispatch:
-  # Her yeni commit attığında da çalışması için alt satırı ekledim:
   push:
     branches:
     - main
@@ -13,7 +12,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Buradaki izinler kısmını mutlaka ekle
     permissions:
       contents: write
     
@@ -26,7 +24,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          # BURASI ÖNEMLİ: Varsayılan token yerine senin oluşturduğun SECURE_TOKEN'ı tanımladık
           GITHUB_TOKEN: ${{ secrets.SECURE_TOKEN }}
 
       - name: Push Snake to Output Branch
