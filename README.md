@@ -11,10 +11,11 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmetSudeys&theme=radical&v=2" alt="Ahmet's github stats" />
+      <!-- Kart tasarımını 'stats' olarak değiştirdim -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmetSudeys&theme=radical&v=3" alt="Ahmet's github stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AhmetSudeys&layout=compact&theme=vision-friendly-dark&v=2" alt="Top Langs" />
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=AhmetSudeys&layout=compact&theme=vision-friendly-dark&v=3" alt="Top Langs" />
     </td>
   </tr>
 </table>
