@@ -15,7 +15,7 @@
       <img src="https://github-readme-stats-brown-eight-91.vercel.app/api?username=AhmetSudeys&show_icons=true&theme=radical&count_private=true&v=6" alt="Ahmet's github stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats-brown-eight-91.vercel.app/api/top-langs/?username=AhmetSudeys&layout=compact&theme=vision-friendly-dark&v=2026" alt="Top Langs" />
+      <img src="https://github-readme-stats-brown-eight-91.vercel.app/api/top-langs/?username=AhmetSudeys&layout=compact&theme=vision-friendly-dark&v=2027" alt="Top Langs" />
     </td>
   </tr>
 </table>
