@@ -1,7 +1,7 @@
 # print("Hello World")
 
 * My name is Ahmet Sudeys Soylu. I'm a Computer Engineering student. (4/4)
-* 🇹🇷 From Turkey.
+* From Turkey. 🇹🇷
 * Driven by a commitment to continuous self-improvement, I specialize in building robust and scalable software solutions. Whether it's developing native mobile experiences with Kotlin or architecting dynamic web and sectoral projects using TypeScript, I thrive on transforming complex ideas into high-quality digital products.
 
 <p align="center">
