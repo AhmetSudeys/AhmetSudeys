@@ -1,8 +1,8 @@
-# Hello World 👋
+# print("Hello World")
 
-* 🌱 My name is Ahmet Sudeys Soylu. I'm a Computer Engineering student.
+* My name is Ahmet Sudeys Soylu. I'm a Computer Engineering student. (4/4)
 * 🇹🇷 From Turkey.
-* 💻 Passionate about building robust mobile solutions with a primary focus on **Android development** and **Kotlin**.
+* Driven by a commitment to continuous self-improvement, I specialize in building robust and scalable software solutions. Whether it's developing native mobile experiences with Kotlin or architecting dynamic web and sectoral projects using TypeScript, I thrive on transforming complex ideas into high-quality digital products.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmetSudeys&color=red&style=flat-square" alt="Profile views" />
